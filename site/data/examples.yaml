@@ -1,5 +1,23 @@
 ---
 examples:
+  - title: Magikcraft.io - website
+    description: Website for Magikcraft.io - JavaScript in Minecraft platform.
+    link: https://www.magikcraft.io
+    thumbnailurl: /img/examples/magikcraft.jpg
+    tools:
+      - tool: S3
+      - tool: Gulp
+  - title: Magikcraft.io - Spellbook app
+    description: In-browser JavaScript editor for Minecraft.
+    link: https://play.magikcraft.io
+    thumbnailurl: /img/examples/magikcraft-spellbook.jpg
+    tools:
+      - tool: S3
+      - tool: React
+      - tool: Sass
+      - tool: React
+      - tool: GraphQL
+      - tool: Webpack
   - title: City of Boston - Budget Site
     description: Executive summary of the City of Boston’s fiscal year 2018 recommended budget.
     link: https://budget.boston.gov
